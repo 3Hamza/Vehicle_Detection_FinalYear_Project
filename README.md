@@ -10,7 +10,7 @@ To run the program:
 
 Below are the screenshots of the project.
 
-[Screenshot (01)](https://user-images.githubusercontent.com/54952184/125668794-10982eeb-b73c-4901-bb80-15d952031fca.png)
+![Screenshot (01)](https://user-images.githubusercontent.com/54952184/125668794-10982eeb-b73c-4901-bb80-15d952031fca.png)
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/54952184/125669406-68ff8aa9-0fcb-4931-9963-61dd9ec157af.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/54952184/125669416-95040cb8-d5aa-4d06-ab4c-15b6fa581ff3.png)
